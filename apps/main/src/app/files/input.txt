@@ -1,0 +1,4 @@
+Data read from file asynchronously:
+Data read from file asynchronously:
+Data read from file asynchronously:
+This is a sample text file
